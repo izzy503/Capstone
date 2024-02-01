@@ -24,6 +24,12 @@ https://edubirdie.com/blog/computer-science-capstone-project-ideas
 * 7:30 research projects structures https://www.fastcomet.com/blog/what-can-i-build-with-react-js
 * 8:10 Researching mongoDB
 
+#### Tuesday 1/30
+
+* 6:30 researching capstone project by looking at others capstone projects https://github.com/theresetuyi/React-Capstone-project
+
+
+
 
 
 
