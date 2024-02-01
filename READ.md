@@ -28,6 +28,10 @@ https://edubirdie.com/blog/computer-science-capstone-project-ideas
 
 * 6:30 researching capstone project by looking at others capstone projects https://github.com/theresetuyi/React-Capstone-project
 
+#### Wednesday 1/31
+
+* 5:30 researching mongoDb https://www.mongodb.com/
+
 
 
 
