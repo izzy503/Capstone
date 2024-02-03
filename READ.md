@@ -32,7 +32,9 @@ https://edubirdie.com/blog/computer-science-capstone-project-ideas
 
 * 5:30 researching mongoDb https://www.mongodb.com/
 
+#### SATURDAY 2/3
 
+* 8:30AM Begins process of Coding for capstone
 
 
 
