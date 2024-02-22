@@ -20,6 +20,8 @@ const MoveForm = ({ addMove }) => {
     setMove('');
   };
 
+  
+
   return (
     <form onSubmit={handleSubmit}>
       <input
