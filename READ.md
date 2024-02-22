@@ -36,6 +36,14 @@ https://edubirdie.com/blog/computer-science-capstone-project-ideas
 
 * 8:30AM Begins process of Coding for capstone
 
+#### Tuesday 2/20
+
+* 8:41PM added code for capstone project 
+
+#### Wednesday 2/21
+
+* 8:42PM added code for capstone project 
+
 
 
 
