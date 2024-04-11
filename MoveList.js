@@ -31,3 +31,6 @@ const MoveList = () => {
  }:
   
  export default MoveList;
+
+
+ //add moves for the catalog and make sure they match everything being done attempt to make add images as well so that they can be used with moves and complete everything properly reach out to rryan to complete this as well in all the list include names of moves in japanese and portugese so that they can see each other without any problems and be able to comunicate equally without any issues if the move is called in any language it will identify them without any issues and 
